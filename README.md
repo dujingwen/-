@@ -1,5 +1,6 @@
-# Intelligence-responder
+# Intelligence-responder 
 数字逻辑系统设计  ------  Proteus ISIS
+（智力抢答器）
 
 功能：
 1、电路具有第一抢答信号的鉴别和锁存功能，在主持人将系统复位后并发出指令后，若一组第一个按下开关抢答，则该组指示灯
